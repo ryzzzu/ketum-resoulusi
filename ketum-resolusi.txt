@@ -1,3 +1,5 @@
 ketum resolusi
 -belajar php setiap malam
 -membuat proker charity camp
+-membuat jaket himpunan
+-kolaborasi dengan kampus lain
